@@ -1,0 +1,23 @@
+{
+  "name": "context-engineering-intro-cn",
+  "version": "1.0.0",
+  "description": "Context Engineering 中文入门指南 - 让 AI 编码助手真正理解你的项目",
+  "keywords": [
+    "context-engineering",
+    "claude-code",
+    "ai-coding",
+    "chinese",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/context-engineering-intro-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/context-engineering-intro-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/context-engineering-intro-cn#readme"
+}
